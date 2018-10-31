@@ -1,0 +1,55 @@
+{
+  "remisiones": [
+    {
+      "remision": 456,
+      "bill": "LEC2580",
+      "name": "Diego Alejandro Ortiz Paez",
+      "date_buy": "12/12/2018",
+      "date_delivery": "14/12/2018",
+      "level": "Kinder",
+      "school": "GLM",
+      "process": "Empacando",
+      "state": "Sin Problemas",
+      "comments": "Hay que cobrarle más plata al señor",
+      "labels": "JUAN PEPITO ORTIZ HASHIMOTO",
+      "shipping": {
+        "medium": "Coordinadora",
+        "scheadule": "Despues de las 11pm",
+        "cost": "8.000"
+      },
+      "payment": "PayU",
+      "contact": {
+        "address": "Calle 150 # 55-55 Apto 515 Torres Balcones de Santa Ines, Barrio La Victoria",
+        "city": "Bogotá",
+        "phone": "305 045 4561",
+        "email": "diegoortizpaez@listaencasa.com",
+        "id": "10190290145"
+      }
+    }, {
+      "remision": 2,
+      "bill": "LEC2",
+      "name": "Pedro",
+      "date_buy": "12/12/2018",
+      "date_delivery": "14/12/2018",
+      "level": "Kinder",
+      "school": "GLM",
+      "process": "Facturado",
+      "state": "Con Problemas",
+      "comments": "None",
+      "labels": "Pedrito",
+      "shipping": {
+        "medium": "Coordinadora",
+        "scheadule": "Antes de las 5pm",
+        "cost": "8.000"
+      },
+      "payment": "Efectivo",
+      "contact": {
+        "address": "Calle falsa # 129 - 29",
+        "city": "Chia",
+        "phone": "31012301203102",
+        "email": "contacto@listaencasa.com",
+        "id": "1019029999"
+      }
+    }
+  ]
+}
